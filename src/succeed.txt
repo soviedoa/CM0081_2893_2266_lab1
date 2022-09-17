@@ -1,0 +1,11 @@
+-- Variables.
+x;
+y;
+myVariable42;
+
+-- An application.
+x y;
+
+-- λ-abstraction.
+x.x;
+
